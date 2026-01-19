@@ -1,3 +1,6 @@
+**＃YOURLS日本語訳**
+このフォーク及び日本語訳ファイルは、私(torichan)がより自然かつわかりやすい日本語訳へと編集したものです。
+
 # YOURLS-ja_JP
 Japanese translations for the YOURLS URL Shortener service
 
