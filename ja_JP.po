@@ -44,7 +44,7 @@ msgstr "地域"
 
 #: yourls-infos.php:237 yourls-infos.php:469
 msgid "Traffic sources"
-msgstr "集客"
+msgstr "トラフィックソース"
 
 #: yourls-infos.php:239 yourls-infos.php:539 includes/functions-html.php:505 includes/functions-html.php:506
 msgid "Share"
@@ -86,7 +86,7 @@ msgstr[1] "約%s日前"
 #: yourls-infos.php:341
 #, php-format
 msgid "Short URL created on %s"
-msgstr "短縮URLは %s に作成した"
+msgstr "短縮URLは %s に作成しました。"
 
 #: yourls-infos.php:356 yourls-infos.php:363
 #, php-format
@@ -119,7 +119,7 @@ msgstr[1] "%2$sに<strong>%1$s</strong>ヒット"
 
 #: yourls-infos.php:381 yourls-infos.php:443
 msgid "Click for more details"
-msgstr "詳しいのは、ここにクリック"
+msgstr "詳しい情報は、ここをクリックしてください。"
 
 #: yourls-infos.php:387 yourls-infos.php:390
 #, php-format
@@ -135,7 +135,7 @@ msgstr[1] "%sヒット"
 
 #: yourls-infos.php:426
 msgid "No traffic yet. Get some clicks first!"
-msgstr "まだ何もない。クリックさせて！"
+msgstr "まだ何もありません！クリックしてください！"
 
 #: yourls-infos.php:441
 msgid "Top 5 countries"
@@ -147,11 +147,11 @@ msgstr "全体ののトラフィック量"
 
 #: yourls-infos.php:463
 msgid "No country data."
-msgstr "国のデータがない。"
+msgstr "国のデータがありません。"
 
 #: yourls-infos.php:478
 msgid "Referrer shares"
-msgstr "リファラーの共有"
+msgstr "参照元の共有"
 
 #: yourls-infos.php:481
 msgid "Others"
@@ -159,7 +159,7 @@ msgstr "その他"
 
 #: yourls-infos.php:485 yourls-infos.php:518
 msgid "Referrers"
-msgstr "リファラー"
+msgstr "参照元"
 
 #: yourls-infos.php:492 yourls-infos.php:502
 msgid "(details)"
@@ -171,15 +171,15 @@ msgstr "様々："
 
 #: yourls-infos.php:516
 msgid "Direct vs Referrer Traffic"
-msgstr "ダイレクト対リファラーのトラフィック"
+msgstr "直接 VS 参照元のアクセス数"
 
 #: yourls-infos.php:518
 msgid "Direct"
-msgstr "ダイレクト"
+msgstr "直接"
 
 #: yourls-infos.php:520
 msgid "Direct traffic:"
-msgstr "ダイレクトのトラフィック："
+msgstr "直接のアクセス数："
 
 #: yourls-infos.php:520 yourls-infos.php:521
 #, php-format
@@ -190,11 +190,11 @@ msgstr[1] "<strong>%s</strong>ヒット"
 
 #: yourls-infos.php:521
 msgid "Referrer traffic:"
-msgstr "リファラーのトラフィック："
+msgstr "参照元のトラフィック："
 
 #: yourls-infos.php:530
 msgid "No referrer data."
-msgstr "リファラーのデータがない。"
+msgstr "参照元のデータがない。"
 
 #: yourls-infos.php:541
 msgid "Short link"
@@ -202,7 +202,7 @@ msgstr "短縮リンク"
 
 #: yourls-infos.php:541 includes/functions-html.php:359
 msgid "Quick Share"
-msgstr "はやく共有"
+msgstr "今すぐ共有"
 
 #: admin/index.php:13 admin/index.php:38 admin/index.php:97 includes/functions-html.php:210
 #: includes/functions-html.php:222
@@ -211,7 +211,7 @@ msgstr "URL"
 
 #: admin/index.php:40
 msgid "All fields"
-msgstr "全項目"
+msgstr "すべての項目"
 
 #: admin/index.php:42 includes/functions-html.php:211 includes/functions-html.php:464
 msgid "Title"
@@ -224,7 +224,7 @@ msgstr "IPアドレス"
 #: admin/index.php:50
 #, php-format
 msgid "Searching for <strong>%1$s</strong> in <strong>%2$s</strong>."
-msgstr "<strong>%2$s</strong>の中で<strong>%1$s</strong>を検索している。"
+msgstr "<strong>%2$s</strong>の中で<strong>%1$s</strong>を検索しています。"
 
 #: admin/index.php:101 includes/functions-html.php:223 includes/functions-html.php:628
 msgid "Date"
@@ -237,7 +237,7 @@ msgstr "クリック"
 #: admin/index.php:187 admin/index.php:198 admin/index.php:209
 #, php-format
 msgid "Short URL created, but could not redirect to %s !"
-msgstr "短縮URLを作成したが、%s に移動させなかった！"
+msgstr "短縮URLは作成したが、%s に移動できませんでした！"
 
 #: admin/index.php:219
 msgid "Unknown \"Share\" bookmarklet"
@@ -268,27 +268,27 @@ msgstr ""
 
 #: admin/index.php:337
 msgid "No URL"
-msgstr "URLがない"
+msgstr "URLがありません。"
 
 #: admin/install.php:13 admin/install.php:18
 #, php-format
 msgid "%s version is too old. Ask your server admin for an upgrade."
-msgstr "%s というバージョンは古すぎる。アップグレードして。"
+msgstr "%s というバージョンは古すぎます。アップグレードしてください。"
 
 #: admin/install.php:24
 msgid "YOURLS already installed."
-msgstr "YOURLSはもうインストールされている。"
+msgstr "YOURLSはもうインストールされています。"
 
 #: admin/install.php:35
 msgid "File <tt>.htaccess</tt> successfully created/updated."
-msgstr "<tt>.htaccess</tt> は作成・更新した。"
+msgstr "<tt>.htaccess</tt> は作成・更新しました。"
 
 #: admin/install.php:37
 msgid ""
 "Could not write file <tt>.htaccess</tt> in YOURLS root directory. You will have to do it manually. See <a href="
 "\"http://yourls.org/htaccess\">how</a>."
 msgstr ""
-"<tt>.htaccess</tt> というファイルを YOURLS のディレクトリで作成できなかった。手動でやらないといけない <a href="
+"<tt>.htaccess</tt> というファイルを YOURLS のディレクトリで作成できませんでした。手動で作成しないといけません。 <a href="
 "\"http://yourls.org/htaccess\">説明</a>を読んでください。"
 
 #: admin/install.php:50 admin/install.php:71
@@ -301,19 +301,19 @@ msgstr "YOURLSの管理ページ"
 
 #: admin/plugins.php:38
 msgid "Unsupported action"
-msgstr "サポートできない操作"
+msgstr "サポートできない操作です。"
 
 #: admin/plugins.php:42
 msgid "No plugin specified, or not a valid plugin"
-msgstr "機能拡張が指定されているか、不正な機能拡張"
+msgstr "機能拡張が指定されているか、不正な機能拡張です。"
 
 #: admin/plugins.php:51
 msgid "Plugin has been activated"
-msgstr "機能拡張を有効した"
+msgstr "機能拡張を有効化しました。"
 
 #: admin/plugins.php:53
 msgid "Plugin has been deactivated"
-msgstr "機能拡張を無効した"
+msgstr "機能拡張を無効化しました。"
 
 #: admin/plugins.php:58 includes/functions-html.php:745
 msgid "Manage Plugins"
@@ -327,22 +327,22 @@ msgstr "機能拡張"
 #, php-format
 msgid "%s plugin"
 msgid_plural "%s plugins"
-msgstr[0] "機能拡張は、%s個"
-msgstr[1] "機能拡張は、%s個"
+msgstr[0] "機能拡張は、%s個あります。"
+msgstr[1] "機能拡張は、%s個あります。"
 
 #. //translators: "you have '3 plugins' installed and '1' activated"
 #: admin/plugins.php:74
 #, php-format
 msgid "You currently have <strong>%1$s</strong> installed, and <strong>%2$s</strong> activated"
-msgstr "現在、インストールした<strong>%1$s</strong>で、<strong>%2$s</strong>個を有効にしています"
+msgstr "現在、インストールした<strong>%1$s</strong>その中で<strong>%2$s</strong>個を有効にしています。"
 
 #: admin/plugins.php:79
 msgid "Plugin Name"
-msgstr "機能拡張名"
+msgstr "拡張機能名"
 
 #: admin/plugins.php:80
 msgid "Version"
-msgstr "ﾊﾞｰｼﾞｮﾝ"
+msgstr "バージョン"
 
 #: admin/plugins.php:81
 msgid "Description"
@@ -371,23 +371,23 @@ msgstr "機能拡張のファイル場所：%s"
 
 #: admin/plugins.php:150
 msgid "Toggle active/inactive plugins"
-msgstr "有効・全部の切り替え"
+msgstr "有効・無効の機能拡張の切り替え"
 
 #: admin/plugins.php:157
 msgid ""
 "If something goes wrong after you activate a plugin and you cannot use YOURLS or access this page, simply rename "
 "or delete its directory, or rename the plugin file to something different than <code>plugin.php</code>."
 msgstr ""
-"もしも機能拡張のせいでこのページまたはYOURLSをアクセスできない場合、ディレクトリを削除したり改名したりしてみてくだ"
-"さい。又は<code>plugin.php</code>というファイルを改名すれば良いです。"
+"もしも機能拡張のせいでこのページまたはYOURLSにアクセスできない場合、ディレクトリを削除したり改名したりしてみてください。"
+"もしくは、<code>plugin.php</code>というファイルを改名してください。"
 
 #: admin/plugins.php:159
 msgid "More plugins"
-msgstr "機能拡張をもっとゲット"
+msgstr "機能拡張をもっと入手"
 
 #: admin/plugins.php:161
 msgid "For more plugins, head to the official <a href=\"http://yourls.org/awesome\">Plugin list</a>."
-msgstr "機能拡張をもっと欲しかったら、公式の<a href=\"http://yourls.org/awesome\">機能拡張一覧</a>を見てください。"
+msgstr "機能拡張がもっと欲しかったら、公式の<a href=\"http://yourls.org/awesome\">機能拡張一覧</a>を見てください。"
 
 #: admin/tools.php:6
 msgid "Cool YOURLS Tools"
@@ -399,11 +399,11 @@ msgstr "ブックマークレット"
 
 #: admin/tools.php:15
 msgid "YOURLS comes with handy <span>bookmarklets</span> for easier link shortening and sharing."
-msgstr "YOURLSは簡単にリンク短縮と共有のために<span>ブックマークレット</span>を提供しています。"
+msgstr "YOURLSは簡単なリンク短縮と共有のために<span>ブックマークレット</span>を提供しています。"
 
 #: admin/tools.php:17
 msgid "Standard or Instant, Simple or Custom"
-msgstr "標準とインスタント、単純とカスタム"
+msgstr "標準もしくは即時、標準またはカスタム"
 
 #: admin/tools.php:20
 msgid ""
@@ -412,12 +412,13 @@ msgid ""
 msgstr "<span>標準のブックマークレット</span>は、別のページで新しい短縮URLを編集したり削除したりできます。"
 
 #: admin/tools.php:22
-msgid "The <span>Instant Bookmarklets</span> will pop the short URL without leaving the page you are viewing."
-msgstr "<span>インスタントのブックマークレット</span>は、現在見ているページから移動しないで短縮URLを作れます。"
+msgid "The <span>Instant Bookmarklets</span> will pop the short URL without leaving the page you are viewing (depending on the page and server configuration, they may silently fail)"
+msgstr "<span>即時ブックマークレット</span>は、表示中のページを離れることなく、短縮URLを生成することができます。（ページやサーバーの設定によっては、失敗することもあります。）"
 
 #: admin/tools.php:24
 msgid "The <span>Simple Bookmarklets</span> will generate a short URL with a random or sequential keyword."
-msgstr "<span>単純のブックマークレット</span>は、ランダムまたは順次的なキーワードで短縮URLを作ります。"
+msgstr "<span>標準のブックマークレット</span>は、ランダムもしくは規則的なキーワードで短縮URLを作ります。"
+
 
 #: admin/tools.php:26
 msgid "The <span>Custom Keyword Bookmarklets</span> will prompt you for a custom keyword first."
@@ -428,33 +429,33 @@ msgid ""
 "If you want to share a description along with the link you're shortening, simply <span>select text</span> on the "
 "page you're viewing before clicking on your bookmarklet link"
 msgstr ""
-"リンクの概要を一緒に保存したかったら、リンクをマウスのドラッグなどで<span>テキストをセレクト</span>してから、ブック"
-"マークレットのリンクをクリックすれば良いです"
+"リンクの概要を一緒に保存したかったら、リンクをマウスのドラッグなどで<span>テキストを選択</span>してから、"
+"ブックマークレットのリンクをクリックしてください。"
 
 #: admin/tools.php:33
 msgid "The Bookmarklets"
-msgstr "ザ・ブックマークレット"
+msgstr "ブックマークレット"
 
 #: admin/tools.php:35 admin/tools.php:62
 msgid "Click and drag links to your toolbar (or right-click and bookmark it)"
-msgstr "リンクをあなたのツールバーへクリックとドラッグしてください。（右クリックと気に入りすることもできる）"
+msgstr "リンクをあなたのツールバーへクリックとドラッグしてください。（または右クリックしてブックマークしてください。）"
 
 #: admin/tools.php:41
 msgid "Standard (new page)"
-msgstr "標準（新しいウィンドウで開く）"
+msgstr "標準（新しいウィンドウで開きます。）"
 
 #: admin/tools.php:42
 msgid "Instant (popup)"
-msgstr "インスタント（ポップアップ）"
+msgstr "即時（ポップアップ）"
 
 #: admin/tools.php:47
 msgid "Simple"
-msgstr "単純"
+msgstr "シンプル"
 
 #: admin/tools.php:48 admin/tools.php:49 admin/tools.php:53 admin/tools.php:54 admin/tools.php:68 admin/tools.php:70
 #: admin/tools.php:72
 msgid "Drag to your toolbar!"
-msgstr "ツールバーをドラッグ！"
+msgstr "ツールバーにドラッグしてください！"
 
 #: admin/tools.php:48
 msgid "Shorten"
@@ -462,27 +463,27 @@ msgstr "短縮"
 
 #: admin/tools.php:49
 msgid "Instant Shorten"
-msgstr "ｲﾝｽﾀﾝﾄ短縮"
+msgstr "即時短縮"
 
 #: admin/tools.php:52
 msgid "Custom Keyword"
-msgstr "カスタム・キーワード"
+msgstr "キーワードをカスタム"
 
 #: admin/tools.php:53
 msgid "Custom shorten"
-msgstr "ｶｽﾀﾑ短縮"
+msgstr "カスタム短縮"
 
 #: admin/tools.php:54
 msgid "Instant Custom Shorten"
-msgstr "ｲﾝｽﾀﾝﾄ･ｶｽﾀﾑ短縮"
+msgstr "キーワードを指定して即時短縮"
 
 #: admin/tools.php:59
 msgid "Social Bookmarklets"
-msgstr "ソーシャルのブックマークレット"
+msgstr "SNSへのブックマークレット"
 
 #: admin/tools.php:61
 msgid "Create a short URL and share it on social networks, all in one click!"
-msgstr "一つのクリックで短縮URLを作って、ソーシャルで共有できます！"
+msgstr "一回のクリックで短縮URLを作って、SNSで共有できます！"
 
 #: admin/tools.php:64
 msgid "Shorten and share:"
@@ -490,19 +491,19 @@ msgstr "短縮して共有："
 
 #: admin/tools.php:68
 msgid "YOURLS &amp; Facebook"
-msgstr "YOURLS→Facebook"
+msgstr "YOURLSからFacebook"
 
 #: admin/tools.php:70
 msgid "YOURLS &amp; Twitter"
-msgstr "YOURLS→Twitter"
+msgstr "YOURLSからTwitter"
 
 #: admin/tools.php:72
 msgid "YOURLS &amp; Tumblr"
-msgstr "YOURLS→tumblr"
+msgstr "YOURLSからtumblr"
 
 #: admin/tools.php:80
 msgid "Prefix-n-Shorten"
-msgstr "接頭辞つけて短縮"
+msgstr "URLの前に入力して短縮"
 
 #: admin/tools.php:82
 #, php-format
@@ -510,30 +511,30 @@ msgid ""
 "When viewing a page, you can also prefix its full URL: just head to your browser's address bar, add \"<span>%s</"
 "span>\" to the beginning of the current URL (right before its 'http://' part) and hit enter."
 msgstr ""
-"ページを見ているとき、フルURLのブラウザのアドレスバーの先に入れば良いです。「<span>%s</span>」の現在のURLの前"
-"（'http://'の部分の前）に入れてEnterを押してください。"
+"短縮したいページを見ているとき、ブラウザのアドレスバーの先に（'https://'の部分の前）に「<span>%s</span>」"
+"を入力してEnterを押してください。"
 
 #: admin/tools.php:85
 msgid "Note: this will probably not work if your web server is running on Windows"
-msgstr "ご注意：Windowsのウェブサーバーでできないでしょう"
+msgstr "注意：WindowsのWebServerでは使えません。"
 
 #: admin/tools.php:87
 msgid " (which seems to be the case here)"
-msgstr " （その場合のようです）"
+msgstr " （ここでもそのようです。）"
 
 #: admin/tools.php:93
 msgid "Secure passwordless API call"
-msgstr "安全でパスワード不要なAPIコール"
+msgstr "安全でパスワード不要なAPI呼び出し"
 
 #: admin/tools.php:96
 msgid "YOURLS allows API calls the old fashioned way, using <tt>username</tt> and <tt>password</tt> parameters."
-msgstr "YOURLSは、<tt>username</tt>と<tt>password</tt>のパラメータで従来的な方法でAPIコールができます。"
+msgstr "YOURLSは、<tt>username</tt>と<tt>password</tt>のパラメータで従来的な方法でAPIの呼び出しができます。"
 
 #: admin/tools.php:98
 msgid ""
 "If you're worried about sending your credentials into the wild, you can also make API calls without using your "
 "login or your password, using a secret signature token."
-msgstr "セキュリティを気になる方は、ユーザ名とパスワードを使わずに秘密認証トークンでAPIコールを呼びます。"
+msgstr "セキュリティが気になる方は、ユーザ名とパスワードを使わずに秘密認証トークンでAPIを呼び出すことができます。"
 
 #: admin/tools.php:102
 #, php-format
@@ -546,7 +547,7 @@ msgstr "（これは秘密です。公開したり共有したりしないでく
 
 #: admin/tools.php:106
 msgid "This signature token can only be used with the API, not with the admin interface."
-msgstr "認証トークンは、APIだけで使います。管理ホームのインターフェイスで使えません。"
+msgstr "認証トークンは、APIだけで使います。管理ホームのインターフェイスで使うことができません。"
 
 #: admin/tools.php:109
 msgid "Usage of the signature token"
@@ -554,7 +555,7 @@ msgstr "認証トークンの使い方"
 
 #: admin/tools.php:110
 msgid "Simply use parameter <tt>signature</tt> in your API requests. Example:"
-msgstr "APIリクエストで<tt>signature</tt>というパラメータを使えば良いです。例えば："
+msgstr "APIリクエストで<tt>signature</tt>というパラメータを使います。例えば："
 
 #: admin/tools.php:114
 msgid "Usage of a time limited signature token"
@@ -575,17 +576,16 @@ msgstr "実際の値："
 #: admin/tools.php:126
 #, php-format
 msgid "This URL would be valid for only %s seconds"
-msgstr "このURLは、%s秒間しか使えない"
+msgstr "このURLは、%s秒間しか使えません。"
 
 #: admin/tools.php:130
 #, php-format
 msgid "See the <a href=\"%s\">API documentation</a> for more"
-msgstr "詳細は、<a href=\"%s\">API の説明書</a>で調べてください"
+msgstr "詳細は、<a href=\"%s\">APIの説明書</a>で調べてください"
 
 #: admin/tools.php:281
 msgid "<strong>Note:</strong> depending on server settings, bookmarklets might fail on websites with <em>https</em>."
-msgstr ""
-"<strong>ご注意：</strong>サーバーの設定により、<em>https</em>を利用しているウェブサイトでブックマークレットが使えな"
+msgstr "<strong>ご注意：</strong>サーバーの設定により、<em>https</em>を利用しているウェブサイトでブックマークレットが使えな"
 "いこともあります。"
 
 #: admin/tools.php:333
@@ -599,11 +599,11 @@ msgstr "YOURLSをアップグレード"
 #: admin/upgrade.php:18
 #, php-format
 msgid "Upgrade not required. Go <a href=\"%s\">back to play</a>!"
-msgstr "アップグレードは必要ではありません。<a href=\"%s\">遊び続けて</a>！"
+msgstr "アップグレードは必要ではありません。<a href=\"%s\">戻ってください！</a>！"
 
 #: admin/upgrade.php:51
 msgid "Your current installation needs to be upgraded."
-msgstr "このソフトをアップグレードする必要があります。"
+msgstr "現在インストールされているものをアップグレードする必要があります。"
 
 #: admin/upgrade.php:52
 msgid ""
@@ -613,12 +613,12 @@ msgstr "早めにデータベースをバックアップしてください。"
 
 #: admin/upgrade.php:53
 msgid "Nothing awful <em>should</em> happen, but this doesn't mean it <em>won't</em> happen, right? ;)"
-msgstr "今までセーフですが、これからどうなるかだれもわかりませんね？＾＾；"
+msgstr "今はまだ大丈夫ですが、これからどうなるかだれもわかりませんよね？＾＾；"
 
 #: admin/upgrade.php:54
 msgid ""
 "On every step, if <span class='error'>something goes wrong</span>, you'll see a message and hopefully a way to fix."
-msgstr "もしも、何か発生したら、メッセージで教えます。それから、できたら、直し方も教えます。"
+msgstr "もしも、何か発生したら、メッセージで教えることができます。それから、できたら、直し方も教えます。"
 
 #: admin/upgrade.php:55
 msgid "If everything goes too fast and you cannot read, <span class=\"success\">good for you</span>, let it go :)"
@@ -626,7 +626,7 @@ msgstr "結果表示は速すぎたら、<span class=\"success\">成功</span>�
 
 #: admin/upgrade.php:56
 msgid "Once you are ready, press \"Upgrade\" !"
-msgstr "準備ができたら「アップグレード」を押して！"
+msgstr "準備ができたら「アップグレード」を押してください！"
 
 #: admin/upgrade.php:65
 msgid "Upgrade"
@@ -639,47 +639,47 @@ msgstr "最新版になりました！ "
 #: admin/upgrade.php:78
 #, php-format
 msgid "Go back to <a href=\"%s\">the admin interface</a>"
-msgstr "<a href=\"%s\">管理ホーム</a>に戻る"
+msgstr "<a href=\"%s\">管理画面</a>に戻る"
 
 #: includes/auth.php:53
 #, php-format
 msgid "Could not auto-encrypt passwords. Error was: \"%s\"."
-msgstr "自動的にパスワードを暗号化できなかった。エラーメッセージ：「%s」"
+msgstr "自動的にパスワードを暗号化することができませんでした。エラーコード：「%s」"
 
 #: includes/auth.php:55
 #, php-format
 msgid "<a href=\"%s\">Get help</a>."
-msgstr "<a href=\"%s\">ヘルプを参考</a>."
+msgstr "<a href=\"%s\">ヘルプを見る</a>."
 
 #: includes/auth.php:57
 #, php-format
 msgid "<a href=\"%s\">Click here</a> to dismiss this message for one week."
-msgstr "<a href=\"%s\">ここに</a>にクリックすれば一週間後にリマインドします。"
+msgstr "<a href=\"%s\">ここを</a>にクリックすれば一週間後にリマインドします。"
 
 #: includes/class-mysql.php:39
 msgid ""
 "YOURLS requires the mysql, mysqli or pdo_mysql PHP extension. No extension found. Check your server config, or "
 "contact your host."
 msgstr ""
-"YOURLSは、mysql、 mysqli、pdo_MySQL、どっちかのPHP機能拡張が必要です。その機能はみつかりません。サーバーの設定を確"
+"YOURLSは、mysql、 mysqli、pdo_MySQL、どちらかのPHP機能拡張が必要です。その機能はみつかりませんでした。サーバーの設定を確"
 "認して、サーバーの管理者に聞いてください。"
 
 #: includes/class-mysql.php:40 includes/functions-install.php:16 includes/functions.php:438
 #: includes/functions.php:450
 msgid "Fatal error"
-msgstr "重大なエラー"
+msgstr "重大なエラーが発生しました。"
 
 #: includes/functions-auth.php:26
 msgid "Logged out successfully"
-msgstr "ログアウトした"
+msgstr "ログアウトしました。"
 
 #: includes/functions-auth.php:102
 msgid "Invalid username or password"
-msgstr "ユーザ名またはパスワードが正しくない"
+msgstr "ユーザ名またはパスワードが正しくありません。"
 
 #: includes/functions-auth.php:104
 msgid "Please log in"
-msgstr "ログインしてださい"
+msgstr "ログインしてださい。"
 
 #: includes/functions-html.php:142
 #, php-format
@@ -691,11 +691,11 @@ msgstr[1] "%sクエリ数"
 #: includes/functions-html.php:147
 #, php-format
 msgid "Powered by %s"
-msgstr "%sで運用中"
+msgstr "%sで運用中！"
 
 #: includes/functions-html.php:175
 msgid "Enter the URL"
-msgstr "URLを入力して"
+msgstr "URLを入力してください。"
 
 #: includes/functions-html.php:176
 msgid "Optional "
@@ -788,7 +788,7 @@ msgstr[1] "%sページ"
 
 #: includes/functions-html.php:299 includes/functions-html.php:313
 msgid "Go to First Page"
-msgstr "最初ページへ"
+msgstr "最初のページへ"
 
 #: includes/functions-html.php:299
 msgid "&laquo; First"
@@ -804,7 +804,7 @@ msgstr "あなたの短縮リンク"
 
 #: includes/functions-html.php:388
 msgid "Long link"
-msgstr "長いリンク"
+msgstr "長いURL"
 
 #: includes/functions-html.php:390 includes/functions-html.php:499 includes/functions-html.php:500
 msgid "Stats"
@@ -812,7 +812,7 @@ msgstr "統計"
 
 #: includes/functions-html.php:404
 msgid "Share with"
-msgstr "他の人に共有"
+msgstr "他の人に共有する"
 
 #: includes/functions-html.php:405
 msgid "Tweet this!"
@@ -828,11 +828,11 @@ msgstr "Friendfeedで共有"
 
 #: includes/functions-html.php:464
 msgid "Save"
-msgstr "保存"
+msgstr "保存する"
 
 #: includes/functions-html.php:464
 msgid "Save new values"
-msgstr "新しい値を保存"
+msgstr "新しい値を保存する"
 
 #: includes/functions-html.php:464
 msgid "Cancel"
@@ -840,11 +840,11 @@ msgstr "取り消し"
 
 #: includes/functions-html.php:464
 msgid "Cancel editing"
-msgstr "編集を"
+msgstr "編集をキャンセルする"
 
 #: includes/functions-html.php:466
 msgid "Error, URL not found"
-msgstr "エラー：URLを見つからなかった"
+msgstr "エラー：URLを見つかりませんでした。"
 
 #: includes/functions-html.php:512 includes/functions-html.php:513
 msgid "Edit"
@@ -856,7 +856,7 @@ msgstr "削除"
 
 #: includes/functions-html.php:541
 msgid "Not a common link"
-msgstr "一般リンクではない"
+msgstr "普通のURLではありません。"
 
 #: includes/functions-html.php:627
 msgid "Original URL"
@@ -893,11 +893,11 @@ msgstr "ヘルプ"
 
 #: includes/functions-html.php:734
 msgid "Go to the admin interface"
-msgstr "管理ホームへ"
+msgstr "管理画面へ"
 
 #: includes/functions-html.php:735
 msgid "Admin interface"
-msgstr "管理ホーム"
+msgstr "管理画面"
 
 #: includes/functions-html.php:741
 msgid "Tools"
@@ -905,7 +905,7 @@ msgstr "ツール"
 
 #: includes/functions-html.php:867 includes/functions-html.php:872
 msgid "Today"
-msgstr "本日"
+msgstr "今日"
 
 #: includes/functions-html.php:868 includes/functions-html.php:873
 msgid "Close"
@@ -914,37 +914,37 @@ msgstr "閉じる"
 #: includes/functions-html.php:889
 #, php-format
 msgid "<a href=\"%s\">YOURLS version %s</a> is available. Please update!"
-msgstr "<a href=\"%s\">YOURLS v%s</a> があります。アップデートしてください！"
+msgstr "<a href=\"%s\">YOURLS の最新バージョン v%s</a> があります。アップデートしてください！"
 
 #: includes/functions-install.php:16 includes/functions.php:438
 msgid "Incorrect DB config, or could not connect to DB"
-msgstr "DBの設定が間違っているかDBに接続できなかった"
+msgstr "DBの設定が間違っているか、DBに接続できませんでした。"
 
 #: includes/functions-install.php:241
 #, php-format
 msgid "Table '%s' created."
-msgstr "'%s' というテーブルを作成した。"
+msgstr "'%s' というテーブルを作成しました。"
 
 #: includes/functions-install.php:243
 #, php-format
 msgid "Error creating table '%s'."
-msgstr "'%s'というテーブルを作成した時エラーが発生した。"
+msgstr "'%s'というテーブルを作成した際エラーが発生しました。"
 
 #: includes/functions-install.php:249
 msgid "Could not initialize options"
-msgstr "オプションを初期化できなかった"
+msgstr "オプションを初期化できませんでした。"
 
 #: includes/functions-install.php:253
 msgid "Could not insert sample short URLs"
-msgstr "例の短縮URLを入れなかった"
+msgstr "サンプルのの短縮URLを入れることができませんでした。"
 
 #: includes/functions-install.php:257
 msgid "YOURLS tables successfully created."
-msgstr "YOURLSのテーブルを作成した。"
+msgstr "YOURLSのテーブルを作成しました。"
 
 #: includes/functions-install.php:259
 msgid "Error creating YOURLS tables."
-msgstr "YOURLSのテーブルを作成した時エラーが発生した。"
+msgstr "YOURLSのテーブルを作成した際にエラーが発生しました。"
 
 #. //translators: weekday
 #: includes/functions-l10n.php:795 includes/functions-l10n.php:805 includes/functions-l10n.php:818
@@ -1202,109 +1202,109 @@ msgstr ""
 msgid "ltr"
 msgstr "ltr"
 
-#: includes/functions-plugins.php:387
+#: includes/functions-plugins.php:387pot
 msgid "Could not find and deactivated plugin :"
 msgid_plural "Could not find and deactivated plugins :"
-msgstr[0] "見つからなくて無効されている拡張拡張："
-msgstr[1] "見つからなくて無効されている機能拡張："
+msgstr[0] "見つからなくて無効にされている拡張機能："
+msgstr[1] "見つからなくて無効にされている拡張機能："
 
 #: includes/functions-plugins.php:425
 msgid "Not a valid plugin file"
-msgstr "不正な機能拡張ファイル"
+msgstr "不正拡張機能のファイル"
 
 #: includes/functions-plugins.php:430
 msgid "Plugin already activated"
-msgstr "機能拡張はもう有効している"
+msgstr "拡張機能はもう有効です。"
 
 #: includes/functions-plugins.php:438
 #, php-format
 msgid "Plugin generated unexpected output. Error was: <br/><pre>%s</pre>"
-msgstr "機能拡張は予想以外のアウトプットを出力した。エラー：<br/><pre>%s</pre>"
+msgstr "拡張機能は予想以外のエラーを出力しました。。エラーコード：<br/><pre>%s</pre>"
 
 #: includes/functions-plugins.php:461
 msgid "Plugin not active"
-msgstr "機能拡張が有効されていない"
+msgstr "拡張機能が有効されていません。"
 
 #: includes/functions-plugins.php:541
 msgid "This page does not exist. Maybe a plugin you thought was activated is inactive?"
-msgstr "ページは存在していまえん。機能拡張が無効されているかもしれませんか？"
+msgstr "ページは存在していません・。拡張機能が無効されているかもしれません。"
 
 #: includes/functions-plugins.php:541
 msgid "Invalid link"
-msgstr "不正なリンク"
+msgstr "不正なリンクです。"
 
 #: includes/functions.php:201
 msgid "Missing or malformed URL"
-msgstr "URLがないか不正な形"
+msgstr "URLがないか不正な形です。"
 
 #: includes/functions.php:215
 msgid "URL is a short URL"
-msgstr "URLはもう既に短縮した"
+msgstr "URLはもう既に短縮してあります。"
 
 #: includes/functions.php:247
 #, php-format
 msgid "Short URL %s already exists in database or is reserved"
-msgstr "%s という短縮URLはもう存在しているか使えない"
+msgstr "%s この短縮URLはもう存在しているか使えません。"
 
 #. //translators: eg "http://someurl/ added to DB"
 #: includes/functions.php:253 includes/functions.php:275
 #, php-format
 msgid "%s added to database"
-msgstr "%s はデータベースに追加した"
+msgstr "%s はデータベースに追加しました。"
 
 #: includes/functions.php:283
 msgid "Error saving url to database"
-msgstr "URLをデータベースで保存する時エラーが発生"
+msgstr "URLをデータベースで保存する時にエラーが発生しました。"
 
 #. //translators: eg "http://someurl/ already exists"
 #: includes/functions.php:300
 #, php-format
 msgid "%s already exists in database"
-msgstr "%s はもうデータベースに存在している"
+msgstr "%s はもうデータベースに存在しています。"
 
 #: includes/functions.php:355
 msgid "Link updated in database"
-msgstr "データベースのリンクを更新した"
+msgstr "データベースのリンクを更新しました。"
 
 #. //translators: "Error updating http://someurl/ (Shorturl: http://sho.rt/blah)"
 #: includes/functions.php:358
 #, php-format
 msgid "Error updating %s (Short URL: %s)"
-msgstr "%sを更新した時エラーが発生した（短縮URL：%s）"
+msgstr "%sを更新した時エラーが発生しました。（短縮URL：%s）"
 
 #: includes/functions.php:364
 msgid "URL or keyword already exists in database"
-msgstr "URL又はキーワードがデータベースにもう存在している"
+msgstr "URL又はキーワードがデータベースにもう存在しています。"
 
 #: includes/functions.php:761
 #, php-format
 msgid "if you are not redirected after 10 seconds, please <a href=\"%s\">click here</a>"
-msgstr "もしも１０秒以内移動させなかったら<a href=\"%s\">ここ</a>にクリックしてください"
+msgstr "もしも１０秒以内移動されなかったら<a href=\"%s\">ここ</a>ここをクリックしてください。"
 
 #: includes/functions.php:769
 #, php-format
 msgid "Please <a href=\"%s\">click here</a>"
-msgstr "<a href=\"%s\">ここ</a>にクリックしてください"
+msgstr "<a href=\"%s\">ここ</a>をクリックしてください。"
 
 #: includes/functions.php:1394
 msgid "Too many URLs added too fast. Slow down please."
-msgstr "URLの追加は速すぎます。もっとゆっくりしてください。"
+msgstr "URLの短縮速度が速すぎます。もっとゆっくり短縮してください。"
 
 #: includes/functions.php:1394
 msgid "Forbidden"
-msgstr "禁止"
+msgstr "禁止されています。"
 
 #: includes/functions.php:1673
 msgid "Unauthorized action or expired link"
-msgstr "リンクが有効期限が切れたか禁止な操作"
+msgstr "このURLは有効期限が切れたか禁止な操作となっています。"
 
 #: includes/functions.php:1673
 msgid "Error"
-msgstr "エラー"
+msgstr "エラー！"
 
 #: includes/functions.php:2064
 msgid "Service temporarily unavailable"
-msgstr "サービスは一時的にアクセスできません"
+msgstr "サービスに一時的にアクセスできません"
 
 #: includes/functions.php:2065
 msgid "Our service is currently undergoing scheduled maintenance."
@@ -1312,18 +1312,18 @@ msgstr "恐れ入りますが、現在、サービスは準備中です。"
 
 #: includes/functions.php:2066
 msgid "Things should not last very long, thank you for your patience and please excuse the inconvenience"
-msgstr "もうちょっとお待ちください。ご迷惑をおかけ本当に申し訳ありませんでした"
+msgstr "もうちょっとお待ちください。ご迷惑をおかけして本当に申し訳ありません。"
 
 #: includes/functions.php:2186
 #, php-format
 msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr "%1$s は、%2$sのバージョンから、<strong>使えない</strong>ことになっています。代わりに%3$sを利用してください。"
+msgstr "%1$s は、%2$sのバージョンから、<strong>使えません</strong>。代わりに%3$sを利用してください。"
 
 #: includes/functions.php:2188
 #, php-format
 msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
-"%1$s は、%2$sのバージョンから、<strong>使えない</strong>ことになっています。残念ですが、代わりのものがありません。"
+"%1$s は、%2$sのバージョンから、<strong>使えません</strong>。残念ですが、代わりのものもありません。"
 
 #: user/plugins/sample-toolbar/plugin.php:62
 msgid "day"
