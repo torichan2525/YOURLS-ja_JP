@@ -1,33 +1,14 @@
-**＃YOURLS日本語訳**
+# YOURLS日本語訳
 このフォーク及び日本語訳ファイルは、私(torichan)がより自然かつわかりやすい日本語訳へと編集したものです。
 
-# YOURLS-ja_JP
-Japanese translations for the YOURLS URL Shortener service
+実際の使用方法は下記を参考にしてください。
 
-For some reason the original first translator of YOURLS to Japanese deleted the repository,
-so I re-created it here.
+## インストール
+詳細は省きます。下記方法でできるはずです。
 
-Note these are original translations created by me, not the original translation.
-All blame (and possibly credit if you must) goes to me.
+1.`ja_JP.mo`ファイルをダウンロード   
 
-Details here:
+2.`config.php` の下記行を編集します。(見つからない場合は追加します。)    
+- `define( 'YOURLS_LANG', 'ja_JP' );`        
 
-https://github.com/YOURLS/YOURLS/wiki/YOURLS-in-your-language
-
-If you notice something that's still untranslated, or you see a mistake or something that
-could be worded better, please feel free to contribute. It is open source, after all.
-
-## Installation
-
-1. Create the binary message file by either running `make` or `msgfmt -o ja_JP.mo ja_JP.po`
-2. In `config.php` edit (or add if it's not there) the following line:
-    - `define( 'YOURLS_LANG', 'ja_JP' );`
-3. In directory `user/languages`, install the file `ja_JP.mo`. If you're using Apache on
-CentOS or Ubuntu and YOURLS is in the root directory of web server html files
-(`/var/www/html`), running `make install` with the correct permissions should copy the
-binary message file into the right place.
-
-## License
-
-Same as YOURLS:
-- MIT
+3.`user/languages`フォルダへと移動し、ダウンロードした`ja_JP.mo`ファイルをアップロードします。
